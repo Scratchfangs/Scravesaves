@@ -1,4 +1,4 @@
-👀 Check out our [Github Discussions](https://github.com/Scratchfangs/Zedexi/discussions) for more info on updates and features!
+👀 Check out our [Github Discussions](https://github.com/Zedexi/Zedexi/discussions) for more info on updates and features!
 
 ---
 Zedexi is a simple game code manager with a unique playful interface that keeps your codes organized, making it easy to input, save, and find your game codes.
